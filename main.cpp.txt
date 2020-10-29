@@ -5,5 +5,6 @@ using namespace std;
 int main()
 {
 	vector<unsigned> numbers;
+	cout << numbers.size();
 	return 0;
 }
