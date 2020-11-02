@@ -6,5 +6,7 @@ int main()
 {
 	vector<unsigned> numbers;
 	cout << numbers.size();
+	cout << numbers.size();
+	cout << numbers.size();
 	return 0;
 }
